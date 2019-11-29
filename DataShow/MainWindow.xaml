@@ -1,0 +1,15 @@
+﻿<Window x:Class="DataShow.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataShow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="lstbox" HorizontalAlignment="Left" Height="319" Margin="58,57,0,0" VerticalAlignment="Top" Width="256"/>
+        <Button x:Name="btnshow" Content="Select" HorizontalAlignment="Left" Margin="440,94,0,0" VerticalAlignment="Top" Width="161" Height="74" FontSize="22" Click="btnshow_Click"/>
+        <Button x:Name="NextSelect" Content="Next" HorizontalAlignment="Left" Margin="440,246,0,0" VerticalAlignment="Top" Width="161" Height="76" FontSize="22" Cursor="" Click="NextSelect_Click"/>
+
+    </Grid>
+</Window>

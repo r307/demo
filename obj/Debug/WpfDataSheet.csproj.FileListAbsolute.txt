@@ -1,0 +1,15 @@
+C:\rupesh\WpfDataSheet\bin\Debug\WpfDataSheet.exe.config
+C:\rupesh\WpfDataSheet\bin\Debug\WpfDataSheet.exe
+C:\rupesh\WpfDataSheet\bin\Debug\WpfDataSheet.pdb
+C:\rupesh\WpfDataSheet\obj\Debug\WpfDataSheet.csprojAssemblyReference.cache
+C:\rupesh\WpfDataSheet\obj\Debug\MainWindow.g.cs
+C:\rupesh\WpfDataSheet\obj\Debug\App.g.cs
+C:\rupesh\WpfDataSheet\obj\Debug\WpfDataSheet_MarkupCompile.cache
+C:\rupesh\WpfDataSheet\obj\Debug\WpfDataSheet_MarkupCompile.lref
+C:\rupesh\WpfDataSheet\obj\Debug\MainWindow.baml
+C:\rupesh\WpfDataSheet\obj\Debug\WpfDataSheet.g.resources
+C:\rupesh\WpfDataSheet\obj\Debug\WpfDataSheet.Properties.Resources.resources
+C:\rupesh\WpfDataSheet\obj\Debug\WpfDataSheet.csproj.GenerateResource.cache
+C:\rupesh\WpfDataSheet\obj\Debug\WpfDataSheet.csproj.CoreCompileInputs.cache
+C:\rupesh\WpfDataSheet\obj\Debug\WpfDataSheet.exe
+C:\rupesh\WpfDataSheet\obj\Debug\WpfDataSheet.pdb

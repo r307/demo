@@ -1,0 +1,14 @@
+C:\rupesh\WpfDataSheet\DataShow\bin\Debug\DataShow.exe.config
+C:\rupesh\WpfDataSheet\DataShow\bin\Debug\DataShow.exe
+C:\rupesh\WpfDataSheet\DataShow\bin\Debug\DataShow.pdb
+C:\rupesh\WpfDataSheet\DataShow\obj\Debug\MainWindow.g.cs
+C:\rupesh\WpfDataSheet\DataShow\obj\Debug\App.g.cs
+C:\rupesh\WpfDataSheet\DataShow\obj\Debug\DataShow_MarkupCompile.cache
+C:\rupesh\WpfDataSheet\DataShow\obj\Debug\DataShow_MarkupCompile.lref
+C:\rupesh\WpfDataSheet\DataShow\obj\Debug\MainWindow.baml
+C:\rupesh\WpfDataSheet\DataShow\obj\Debug\DataShow.g.resources
+C:\rupesh\WpfDataSheet\DataShow\obj\Debug\DataShow.Properties.Resources.resources
+C:\rupesh\WpfDataSheet\DataShow\obj\Debug\DataShow.csproj.GenerateResource.cache
+C:\rupesh\WpfDataSheet\DataShow\obj\Debug\DataShow.csproj.CoreCompileInputs.cache
+C:\rupesh\WpfDataSheet\DataShow\obj\Debug\DataShow.exe
+C:\rupesh\WpfDataSheet\DataShow\obj\Debug\DataShow.pdb

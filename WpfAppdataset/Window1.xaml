@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfAppdataset.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppdataset"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <Button Content="Fill" HorizontalAlignment="Left" Margin="499,83,0,0" VerticalAlignment="Top" Width="123" Height="71" Click="Button_Click"/>
+        <Button Content="Update" HorizontalAlignment="Left" Margin="499,212,0,0" VerticalAlignment="Top" Width="121" Height="72" Click="Button_Click_1"/>
+        <DataGrid x:Name="dgemps" HorizontalAlignment="Left" Height="271" Margin="45,83,0,0" VerticalAlignment="Top" Width="236"/>
+
+    </Grid>
+</Window>

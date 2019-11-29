@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfApp_DataSet_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp_DataSet_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="gride" HorizontalAlignment="Left" Height="195" Margin="52,26,0,0" VerticalAlignment="Top" Width="343"/>
+        <DataGrid x:Name="gridd" HorizontalAlignment="Left" Height="153" Margin="52,243,0,0" VerticalAlignment="Top" Width="343"/>
+        <Button Content="Fill" HorizontalAlignment="Left" Margin="476,83,0,0" VerticalAlignment="Top" Width="158" Height="89" FontSize="22" Click="Button_Click"/>
+        <Button x:Name="btnupdate" Content="Update" HorizontalAlignment="Left" Margin="498,243,0,0" VerticalAlignment="Top" Width="128" Height="53" FontSize="22" Click="btnupdate_Click"/>
+
+    </Grid>
+</Window>

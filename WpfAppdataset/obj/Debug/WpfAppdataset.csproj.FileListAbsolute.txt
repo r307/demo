@@ -1,0 +1,17 @@
+C:\rupesh\WpfDataSheet\WpfAppdataset\bin\Debug\WpfAppdataset.exe.config
+C:\rupesh\WpfDataSheet\WpfAppdataset\bin\Debug\WpfAppdataset.exe
+C:\rupesh\WpfDataSheet\WpfAppdataset\bin\Debug\WpfAppdataset.pdb
+C:\rupesh\WpfDataSheet\WpfAppdataset\obj\Debug\MainWindow.g.cs
+C:\rupesh\WpfDataSheet\WpfAppdataset\obj\Debug\Window1.g.cs
+C:\rupesh\WpfDataSheet\WpfAppdataset\obj\Debug\App.g.cs
+C:\rupesh\WpfDataSheet\WpfAppdataset\obj\Debug\WpfAppdataset_MarkupCompile.cache
+C:\rupesh\WpfDataSheet\WpfAppdataset\obj\Debug\WpfAppdataset_MarkupCompile.lref
+C:\rupesh\WpfDataSheet\WpfAppdataset\obj\Debug\MainWindow.baml
+C:\rupesh\WpfDataSheet\WpfAppdataset\obj\Debug\Window1.baml
+C:\rupesh\WpfDataSheet\WpfAppdataset\obj\Debug\WpfAppdataset.g.resources
+C:\rupesh\WpfDataSheet\WpfAppdataset\obj\Debug\WpfAppdataset.Properties.Resources.resources
+C:\rupesh\WpfDataSheet\WpfAppdataset\obj\Debug\WpfAppdataset.csproj.GenerateResource.cache
+C:\rupesh\WpfDataSheet\WpfAppdataset\obj\Debug\WpfAppdataset.csproj.CoreCompileInputs.cache
+C:\rupesh\WpfDataSheet\WpfAppdataset\obj\Debug\WpfAppdataset.exe
+C:\rupesh\WpfDataSheet\WpfAppdataset\obj\Debug\WpfAppdataset.pdb
+C:\rupesh\WpfDataSheet\WpfAppdataset\obj\Debug\WpfAppdataset.csprojAssemblyReference.cache

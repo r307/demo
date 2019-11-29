@@ -1,0 +1,15 @@
+C:\rupesh\WpfDataSheet\WpfApptypedataset\bin\Debug\WpfApptypedataset.exe.config
+C:\rupesh\WpfDataSheet\WpfApptypedataset\bin\Debug\WpfApptypedataset.exe
+C:\rupesh\WpfDataSheet\WpfApptypedataset\bin\Debug\WpfApptypedataset.pdb
+C:\rupesh\WpfDataSheet\WpfApptypedataset\obj\Debug\WpfApptypedataset.csprojAssemblyReference.cache
+C:\rupesh\WpfDataSheet\WpfApptypedataset\obj\Debug\MainWindow.g.cs
+C:\rupesh\WpfDataSheet\WpfApptypedataset\obj\Debug\App.g.cs
+C:\rupesh\WpfDataSheet\WpfApptypedataset\obj\Debug\WpfApptypedataset_MarkupCompile.cache
+C:\rupesh\WpfDataSheet\WpfApptypedataset\obj\Debug\WpfApptypedataset_MarkupCompile.lref
+C:\rupesh\WpfDataSheet\WpfApptypedataset\obj\Debug\MainWindow.baml
+C:\rupesh\WpfDataSheet\WpfApptypedataset\obj\Debug\WpfApptypedataset.g.resources
+C:\rupesh\WpfDataSheet\WpfApptypedataset\obj\Debug\WpfApptypedataset.Properties.Resources.resources
+C:\rupesh\WpfDataSheet\WpfApptypedataset\obj\Debug\WpfApptypedataset.csproj.GenerateResource.cache
+C:\rupesh\WpfDataSheet\WpfApptypedataset\obj\Debug\WpfApptypedataset.csproj.CoreCompileInputs.cache
+C:\rupesh\WpfDataSheet\WpfApptypedataset\obj\Debug\WpfApptypedataset.exe
+C:\rupesh\WpfDataSheet\WpfApptypedataset\obj\Debug\WpfApptypedataset.pdb

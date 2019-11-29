@@ -1,0 +1,14 @@
+C:\rupesh\WpfDataSheet\WpfAppdatareader\bin\Debug\WpfAppdatareader.exe.config
+C:\rupesh\WpfDataSheet\WpfAppdatareader\bin\Debug\WpfAppdatareader.exe
+C:\rupesh\WpfDataSheet\WpfAppdatareader\bin\Debug\WpfAppdatareader.pdb
+C:\rupesh\WpfDataSheet\WpfAppdatareader\obj\Debug\MainWindow.g.cs
+C:\rupesh\WpfDataSheet\WpfAppdatareader\obj\Debug\App.g.cs
+C:\rupesh\WpfDataSheet\WpfAppdatareader\obj\Debug\WpfAppdatareader_MarkupCompile.cache
+C:\rupesh\WpfDataSheet\WpfAppdatareader\obj\Debug\WpfAppdatareader_MarkupCompile.lref
+C:\rupesh\WpfDataSheet\WpfAppdatareader\obj\Debug\MainWindow.baml
+C:\rupesh\WpfDataSheet\WpfAppdatareader\obj\Debug\WpfAppdatareader.g.resources
+C:\rupesh\WpfDataSheet\WpfAppdatareader\obj\Debug\WpfAppdatareader.Properties.Resources.resources
+C:\rupesh\WpfDataSheet\WpfAppdatareader\obj\Debug\WpfAppdatareader.csproj.GenerateResource.cache
+C:\rupesh\WpfDataSheet\WpfAppdatareader\obj\Debug\WpfAppdatareader.csproj.CoreCompileInputs.cache
+C:\rupesh\WpfDataSheet\WpfAppdatareader\obj\Debug\WpfAppdatareader.exe
+C:\rupesh\WpfDataSheet\WpfAppdatareader\obj\Debug\WpfAppdatareader.pdb
